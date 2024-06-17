@@ -3,7 +3,9 @@ A compelling 3D animation depicting the devastation caused by the mudslide at St
 
 **Link to project:** 
 
+<div align="center">
 <img alt = "Mudslide GIF" img src="./Oso Mudslide_gif.gif"/>
+</div>
 
 ## How It's Made:
 
