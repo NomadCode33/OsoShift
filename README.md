@@ -17,9 +17,9 @@ Finally, after ensuring all elements were perfectly aligned and the transitions 
 
 ## Lessons Learned:
 
-h
+I embarked on the animation project expecting a straightforward process, but I quickly learned how intricate it truly was. Initially, I thought it would simply involve inserting a few frames. However, the transition between the before and after scenes proved complex, requiring careful adjustment of layers and transparency to ensure a smooth change.
 
-No matter what your experience level, being an engineer means continuously learning. Every time you build something you always have those *whoa this is awesome* or *wow I actually did it!* moments. This is where you should share those moments! Recruiters and interviewers love to see that you're self-aware and passionate about growing.
+This challenge taught me valuable lessons about positioning, perspective, and creative problem-solving. It opened my eyes to the nuances of animation, helping me develop a keen attention to detail and learn how to manipulate elements to effectively communicate the story. By the end, I had gained a deeper appreciation for the art of animation and the skill required to create a seamless, engaging narrative.
 
 ## Examples:
 Take a look at these couple examples that I have in my own portfolio:
