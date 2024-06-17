@@ -9,7 +9,11 @@ A compelling 3D animation depicting the devastation caused by the mudslide at St
 
 **Tech used:** ArcGIS Pro
 
-Here's where you can go to town on how you actually built this thing. Write as much as you can here, it's totally fine if it's not too much just make sure you write *something*. If you don't have too much experience on your resume working on the front end that's totally fine. This is where you can really show off your passion and make up for that ten fold.
+I began by downloading the necessary files to construct the 3D map scene and create the animation. My first task was to establish the initial keyframe using a built-in bookmark to set the starting position. With the export settings configured to GIF for optimal viewing, I moved on to adding additional keyframes. These keyframes showcased various angles of the mudslide, including before and after images, to effectively depict the extent of the destruction. Bookmarks were used to accurately position each view, ensuring a comprehensive presentation.
+
+To create seamless transitions between the before and after images of the mountain, I meticulously adjusted transparency settings. This involved carefully turning layers on and off at precise moments to maintain consistency and clarity. To further aid viewer comprehension, I added text overlays that explained the visual information being presented. 
+
+Finally, after ensuring all elements were perfectly aligned and the transitions were smooth, I exported the animation. The result was a powerful and clear visual representation of the mudslide's impact, effectively communicating the scale of the destruction.
 
 ## Optimizations
 *(optional)*
