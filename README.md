@@ -27,4 +27,5 @@ No matter what your experience level, being an engineer means continuously learn
 ## Examples:
 Take a look at these couple examples that I have in my own portfolio:
 
-**Palettable:** https://github.com/alecortega/palettable
+**City of Miami Beach Sea Level Rise:** https://github.com/T3ch12et/3D-Miami-Beach-Sea-Level-Rise/tree/main
+**Athens Heat Risk Index:** https://github.com/T3ch12et/Athens-Heat-Risk-Index/tree/main
