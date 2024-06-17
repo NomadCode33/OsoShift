@@ -24,5 +24,5 @@ This challenge taught me valuable lessons about positioning, perspective, and cr
 ## Examples:
 Take a look at these couple examples that I have in my own portfolio:
 
-**Miami Beach Sea Level Rise:** https://github.com/T3ch12et/3D-Miami-Beach-Sea-Level-Rise/tree/main <br>
+**Miami Sea Level Rise:** https://github.com/T3ch12et/3D-Miami-Beach-Sea-Level-Rise/tree/main <br>
 **Athens Heat Risk Index:** https://github.com/T3ch12et/Athens-Heat-Risk-Index/tree/main
