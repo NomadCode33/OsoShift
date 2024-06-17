@@ -1,9 +1,9 @@
 # Oso Mudslide
 A compelling 3D animation depicting the devastation caused by the mudslide at Steelhead Haven near Oso, WA, vividly illustrating the event's impact and aftermath.
 
-**Link to project:** http://recruiters-love-seeing-live-demos.com/
+**Link to project:** 
 
-![alt tag](http://placecorgi.com/1200/650)
+<img alt = "Mudslide GIF" img src="./Oso Mudslide_gif.gif"/>
 
 ## How It's Made:
 
