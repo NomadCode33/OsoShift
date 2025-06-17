@@ -1,5 +1,5 @@
 # OsoShift: Oso Landslide Story
-A compelling 3D animation simulating the sequence and spatial extent of the catastrophic mudslide at Steelhead Haven near Oso, WA, vividly illustrating the event's impact and aftermath. It integratess terrain data, pre- and post- event imagery, and animation timelines to vividly depict the mudslide's progression, impact on infrastructure, and environmental aftermath-enhacing preparedness and public awareness.
+A compelling 3D animation simulating the sequence and spatial extent of the catastrophic mudslide at Steelhead Haven near Oso, WA, illustrating its impact and aftermath. It integrates terrain data, pre- and post- event imagery, and animation timelines to vividly depict the mudslide's progression, impact on infrastructure, and environmental aftermath-enhacing preparedness and public awareness.
 
 <div align="center">
 <img alt = "Mudslide GIF" img src="./Oso Mudslide_gif.gif"/>
